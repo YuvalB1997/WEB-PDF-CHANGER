@@ -1,8 +1,7 @@
 
 ## Authors:
 Yuval Buzhor
-
-, Yaniv Krol
+Yaniv Krol
 
 
 
